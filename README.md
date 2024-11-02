@@ -19,6 +19,3 @@ An interactive Stone-Paper-Scissors game where you play against the computer. Th
 
 Features: Random choice generation for the computer, win/loss/draw results
 Usage: The game prompts the user to choose 'S' (Stone), 'P' (Paper), or 'X' (Scissors). It then compares the choices and displays the result, asking if the user wants to play again.
-
-Future Plans : 
-I plan to continue adding more C projects to this repository. Feel free to check back for updates, and suggestions are always welcome!
