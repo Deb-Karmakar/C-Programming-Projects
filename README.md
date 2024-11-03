@@ -1,5 +1,4 @@
 # C-Programming-Projects
-# C Programming Projects
 
 This repository contains various beginner-friendly C programming projects, focusing on basic programming concepts and logic building. These projects cover a range of topics, from basic math functions to games and practical utilities.
 
@@ -21,11 +20,11 @@ This repository contains various beginner-friendly C programming projects, focus
    - **Description**: A classic stone-paper-scissors game played against the computer.
    - **Features**:
       - Random computer choices.
-      - User-friendly prompts.
+      - Tracks the final score.
       - Option to play multiple rounds.
 
 ### 4. Currency Converter
-   - **Description**: A simple currency converter that converts between USD, EUR, and INR using pre-defined exchange rates.
+   - **Description**: A simple currency converter that converts between USD, EUR, GBP and INR using pre-defined exchange rates.
    - **Features**:
       - Converts between popular currencies.
       - User can select source and target currencies for conversion.
