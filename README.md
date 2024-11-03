@@ -29,3 +29,9 @@ This repository contains various beginner-friendly C programming projects, focus
       - Converts between popular currencies.
       - User can select source and target currencies for conversion.
       - Easily customizable to include more currencies and updated rates.
+### 5. Password Generator
+   - **Description**: A simple program to generate random passwords based on the user's specified length.
+   - **Features**:
+      - Includes uppercase and lowercase letters, digits, and special characters for secure password generation.
+      - User can specify the length of the password.
+      - Uses time-based seeding for randomness, ensuring different passwords after each run.
