@@ -1,21 +1,32 @@
 # C-Programming-Projects
-Welcome to my C Programming Projects repository! This collection contains a variety of console-based programs implemented in C, each designed to explore and demonstrate core concepts in programming. Projects range from interactive games to a calculator, focusing on user input, control structures, functions, and algorithms.
+# C Programming Projects
 
-Projects
-1. Calculator : 
-A simple calculator program that performs basic arithmetic operations. The user can add, subtract, multiply, or divide two numbers. Additionally, the program includes a loop allowing the user to perform consecutive calculations until they choose to exit.
+This repository contains various beginner-friendly C programming projects, focusing on basic programming concepts and logic building. These projects cover a range of topics, from basic math functions to games and practical utilities.
 
-Features: Addition, subtraction, multiplication, division
-Usage: The program prompts the user to enter two numbers and an operator (e.g., +, -, *, /). It displays the result and asks if the user wants to perform another calculation.
+## Projects Included
 
-2. Guess the Number Game : 
-A guessing game where the computer generates a random number within a range, and the user tries to guess it. Hints are provided based on whether the guess is too high or too low, helping guide the player toward the correct answer.
+### 1. Calculator
+   - **Description**: A simple calculator that supports basic arithmetic operations (addition, subtraction, multiplication, division).
+   - **Features**: 
+      - Error handling for division by zero.
+      - Option to continue performing calculations.
 
-Features: Difficulty levels (Easy, Moderate, Hard) with different ranges, hint system
-Usage: The game asks the user to select a difficulty level and then guess the number. It provides hints until the user guesses correctly and displays the number of attempts.
+### 2. Guess the Number Game
+   - **Description**: A number guessing game where the computer randomly selects a number, and the player tries to guess it with hints.
+   - **Features**:
+      - Difficulty levels (Easy, Moderate, Hard).
+      - Tracks the number of attempts taken to guess correctly.
 
-3. Stone-Paper-Scissors Game : 
-An interactive Stone-Paper-Scissors game where you play against the computer. The computer makes a random choice, and you input your choice to see who wins.
+### 3. Stone, Paper, Scissors Game
+   - **Description**: A classic stone-paper-scissors game played against the computer.
+   - **Features**:
+      - Random computer choices.
+      - User-friendly prompts.
+      - Option to play multiple rounds.
 
-Features: Random choice generation for the computer, win/loss/draw results
-Usage: The game prompts the user to choose 'S' (Stone), 'P' (Paper), or 'X' (Scissors). It then compares the choices and displays the result, asking if the user wants to play again.
+### 4. Currency Converter
+   - **Description**: A simple currency converter that converts between USD, EUR, and INR using pre-defined exchange rates.
+   - **Features**:
+      - Converts between popular currencies.
+      - User can select source and target currencies for conversion.
+      - Easily customizable to include more currencies and updated rates.
