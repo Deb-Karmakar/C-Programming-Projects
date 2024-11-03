@@ -35,3 +35,12 @@ This repository contains various beginner-friendly C programming projects, focus
       - Includes uppercase and lowercase letters, digits, and special characters for secure password generation.
       - User can specify the length of the password.
       - Uses time-based seeding for randomness, ensuring different passwords after each run.
+### 6. Maths Quiz Game
+   - **Description**: A fun math quiz game that generates random arithmetic questions based on selected difficulty levels.
+   - **Features**:
+      - Three difficulty levels:
+        - Easy: Questions generated with numbers up to 100.
+        - Moderate: Questions generated with numbers up to 200.
+        - Hard: Questions generated with numbers up to 300.
+      - Randomized questions and operations for varied gameplay.
+      - Score tracking with 5 points awarded for each correct answer.
