@@ -21,4 +21,5 @@ int main()
     printf("Enter the length of the password : ");
     scanf("%d", &length);
     password(length);
+    return 0;
 }
