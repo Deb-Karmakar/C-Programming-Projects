@@ -2,6 +2,15 @@
 
 int main()
 {
+char startChoice;
+    printf("Do you want to use the calculator? (y/n): ");
+    scanf(" %c", &startChoice);
+
+    if (startChoice != 'y' && startChoice != 'Y') {
+        printf("Calculator not started.\n");
+        return 0;
+    }
+
     char choice; // Variable to decide whether to continue or not
     do
     {
